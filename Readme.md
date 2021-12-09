@@ -4,7 +4,7 @@
 <<<<<<< HEAD
 * Наставник: `Cogen Solntcev 1`.
 =======
-* Наставник: `Cogen Solntce 1`.
+* Наставник: `Cogen Solntcev one`.
 >>>>>>> b77c785605834a86c79f0ff494c4e297ba7a5c30
 
 ---
