@@ -2,9 +2,13 @@
 
 * Студент: [Pavel Ulyanov](https://up.htmlacademy.ru/htmlcss/32/user/1868559).
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Наставник: `Cogen Solntcev 1`.
 =======
 * Наставник: `Cogen Solntcev one`.
+>>>>>>> b77c785605834a86c79f0ff494c4e297ba7a5c30
+=======
+* Наставник: `Cogen Solntce`.
 >>>>>>> b77c785605834a86c79f0ff494c4e297ba7a5c30
 
 ---
